@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>GC Events</title>
+  <title>GC Games</title>
 
   <!-- Fonte do Google -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet">
