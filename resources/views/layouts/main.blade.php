@@ -20,7 +20,7 @@
   <!-- CSS da aplicação -->
   <link rel="stylesheet" href="/css/styles.css">
   <script src="/js/scripts.js"></script>
-  
+  <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 <body>
   @include('sweetalert::alert', ['cdn' => "https://cdn.jsdelivr.net/npm/sweetalert2@9"])
